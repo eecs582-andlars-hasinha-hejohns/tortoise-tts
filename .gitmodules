@@ -1,0 +1,3 @@
+[submodule "audio-papers"]
+	path = audio-papers
+	url = git@github.com:eecs582-andlars-hasinha-hejohns/audio-papers.git
